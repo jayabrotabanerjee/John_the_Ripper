@@ -107,3 +107,7 @@ A GUI-based password cracking tool using John the Ripper created by Jayabrota Ba
    - Click "Start Cracking"
 
 4. Monitor progress
+   ## Screenshots
+   
+![Home Page](Screenshots/homepage.png)
+![Cracking Process](Screenshots/crackingprocess.png)
